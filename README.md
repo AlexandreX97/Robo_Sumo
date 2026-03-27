@@ -1,4 +1,4 @@
-Código do Robô Sumo 500 gramas
+Código em C++ do Robô Sumo 500 gramas
 
 Componentes do robô sumo:
 
