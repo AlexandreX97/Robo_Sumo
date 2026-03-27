@@ -1,4 +1,4 @@
-Código em C++ do Arduino IDE do Robô Sumo 500 gramas
+Código em C++ do Arduino IDE do Robô Sumo de 500 gramas
 
 
 Componentes do robô sumo:
